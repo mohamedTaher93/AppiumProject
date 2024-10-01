@@ -1,0 +1,14 @@
+{
+  "ignoreNotificationsId": "com.android.permissioncontroller:id/permission_deny_button",
+  "allowLocationWhileUseAppId": "com.android.permissioncontroller:id/permission_allow_foreground_only_button",
+  "selectLocationId": "com.hungerstation.android.web:id/address_description",
+  "searchLocationFieldId": "com.hungerstation.android.web:id/search_bar",
+  "searchLocationInputId": "com.hungerstation.android.web:id/places_autocomplete_search_bar",
+  "firstAddressOptionXpath": "(//androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout)[1]",
+  "confirmLocationId": "com.hungerstation.android.web:id/confirm_drop_off_button",
+  "saveContinueXpath": "//android.widget.Button[@text = 'Save and Continue']",
+  "homeBottomIconId": "com.hungerstation.android.web:id/restaurants_item",
+  "searchForRestaurantId": "com.hungerstation.android.web:id/input_csc",
+  "searchRestaurantContainerId": "com.hungerstation.android.web:id/searchSwipeLayout",
+  "restaurantTitleId": "com.hungerstation.android.web:id/header_title"
+}
